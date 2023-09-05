@@ -1,0 +1,13 @@
+                                                    Virtualizáció
+
+Paas
+      >> A platform szolgáltatás (Platform as a Service)
+        ° Azure, Docker, 
+Saas
+      >> Szoftver, mint szolgáltatás (Software as a Service)
+        ° Youtube, Google, 
+Iaas
+      >>
+
+Cass
+      >>
