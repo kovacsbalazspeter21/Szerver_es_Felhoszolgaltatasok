@@ -1,0 +1,9 @@
+md5sum  -   fájl ellenörző 
+
+netstat -lanpt | grep
+
+docker exec [options] [container] [commands] (arg) docker exec -it xy /bin/bash (arg)
+
+ls /proc/  - process mappák
+
+cat /proc/1/cmdline
